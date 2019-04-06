@@ -18,7 +18,7 @@ package io.openshift.booster.service;
 // tag::snippet-greeting[]
 public class Greeting {
 
-    public static final String FORMAT = "Hello, %s!";
+    public static final String FORMAT = "Don't Panic and bring your towel, %s!";
 
     private final String content;
 
